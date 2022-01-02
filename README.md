@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-## I'm Rahul Dhanola.
+## I'm Lead Senior FullStack Laravel / WordPress Developer
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
+I specialize in the development of business projects from scratch, both from scratch and as a team. Both using frameworks and completely self-written solutions without libraries. I also create plugins and themes for WordPress and automate any business processes.
 
 ### 💻 &nbsp;Languages
 
