@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-I specialize in the development of business projects from scratch, both from scratch and as a team. Both using frameworks and completely self-written solutions without libraries. I also create plugins and themes for WordPress and automate any business processes.
+I specialize in the development of business projects from scratch as single FullStack Developer and Team Developer, no metter - FrontEnd or Backend. Can use frameworks and librarys for fast resolving and completely self-written solutions without libraries. I also create plugins and themes for WordPress and automate any business processes. Fast resolving problem is my strong point.
 
 ### 💻 &nbsp;Languages
 
