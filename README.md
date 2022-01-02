@@ -1,4 +1,11 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+### Hi there 👋
+
+## I'm Rahul Dhanola.
+
+### 💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing programming insights.
+- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
 
 ### Languages
 
