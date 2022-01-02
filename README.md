@@ -31,7 +31,9 @@ I specialize in the development of business projects from scratch as single Full
 ### 💻 &nbsp;Finished Projects
 
 - https://myketo.ru/ - Development from scratch without frameworks in pure PHP + jQuery by scratch from Figma.
-- http://italianshoefactory.com/ - Create plugin for WordPress to Bulk ordering shoes on WooCommerce with multiple select by sizes and discounts by quantity.
+- https://italianshoefactory.com/ - Create plugin for WordPress to Bulk ordering shoes on WooCommerce with multiple select by sizes and discounts by quantity.
 - https://www.raos.com/ - Create plugin for WordPress to Subscribe on order items and Auto-Pay and GPay with AutorizeNet. Also managing subscriptions and editing in profile.
+- https://tkotix.com/ - A marketing system has been implemented for organizers of matches, as well as boxers, which calculates percentages for ticket purchases and correctly distributes them between partners, depending on the referral link used.
+- 
 
 
