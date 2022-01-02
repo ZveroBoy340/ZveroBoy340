@@ -30,6 +30,7 @@ I specialize in the development of business projects from scratch as single Full
 
 ### 💻 &nbsp;Finished Projects
 
-
+- https://myketo.ru/ - Development from scratch without frameworks in pure PHP + jQuery, including layout by layout with Figma.
+- 
 
 
