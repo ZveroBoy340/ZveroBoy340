@@ -27,7 +27,6 @@ I specialize in the development of business projects from scratch as single Full
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-
 ### 💻 &nbsp;Finished Projects
 
 - https://myketo.ru/ - Development from scratch without frameworks in pure PHP + jQuery by scratch from Figma.
@@ -37,4 +36,17 @@ I specialize in the development of business projects from scratch as single Full
 
 In total, over 100 different projects have been completed over 8 years of experience. Most are related to API integration as well as RestAPI implementation.
 
+### 💻 &nbsp;Expirienced with WordPress Plugins
+WooCommerce, SportsPress, GravityForms, LearnDash, Uncanny Automator, FooGallery, WP Cron, Updraft, Autooptimize, WP Rocket, W3C Total Cache, All In One SEO Pack, Yoast WooCommerce SEO, Contact Form 7, ACF , ShortPixel, WP Estimation Form, FooEvents, The Events Calendar, Elementor, SportPress, Yith Woocommerce Multi Vendor Premium, Sellsy, Loco, Translate, ListingPro, Resideo, Indeed Affiliate Pro, WP All Import / Export, RevSlider, Ultimate Membership Pro, WC Serial Numbers, Mini Orange OTP Verification, WP Popup, WPML, Atomic Blocks, WP Mail SMTP, PDF Embedder, Polylang, Events
 
+### 💻 &nbsp;Expirienced with WordPress Premium Themes
+Enfold, Flatsome, Astra, RealHomes, ListingPro, JobCareer, WoodMart, Divi, Resideo, SofBox, Total, Bridge
+
+### 💻 &nbsp;API Integration on WordPress
+OpenBroker, Weeve, SeedTrace, Sienna, Luna, Innopharma (ERP), Kajabi, Justimmo, Scoro, Twilio, EasyLearn, Paladin (ERP)
+
+### 💻 &nbsp;API Integration Payments on WooCommerce
+Google Pay, Autorize Subcriptions, PayPal Subscriptions, Stripe Subscriptions
+
+### 💻 &nbsp;Created RestAPI on WordPress
+Golfix, Roda, The Pro Panel, Shipping Cost API
